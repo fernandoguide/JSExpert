@@ -1,3 +1,28 @@
+# Como usar o hacker-chat
+
+# Passo 1 basta instalar o client com o comando
+
+```
+npm i -g @fernandoguide/hacker-chat-client
+```
+ 
+# Passo 2 usar o comando 
+
+```
+hacker-chat --username [SEU_NOME] --room [SUA_SALA]
+```
+# Exemplo 
+
+```
+ hacker-chat --username Fernando --room sala01
+```
+
+# Pronto agora pode passar para seus amigos entrarem na mesma sala que voce, e podem conversar com um chat em tempo real no terminal!
+
+Bacana ne?! 
+
+Projeto baseado na Semana-javascript-expert03 e os creditos são todos do [Erick Wendel](https://github.com/ErickWendel)
+
 # Semana-javascript-expert03
 
 Seja bem vindo(a) à terceira Semana Javascript Expert.
