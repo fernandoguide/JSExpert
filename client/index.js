@@ -1,9 +1,13 @@
+#!/usr/bin/env node
+
 /*
-node index.js \
-    --username erickwendel \
-    --room sala01 \
-    --hostUri localhost
+    chmod +x index.js
+    npm unpublish --force
+    npm unlink -g @fernandoguide/hacker-chat-client
+
+    npm i -g @fernandoguide/hacker-chat-client
 */
+
 
 
 import Events from 'events'
